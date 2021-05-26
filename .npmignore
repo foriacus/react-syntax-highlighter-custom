@@ -1,0 +1,11 @@
+node_modules
+demo
+coverage
+__tests__
+
+npm-debug.log
+webpack.config.js
+babel.config.js
+
+.DS_Store
+.circleci
